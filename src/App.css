@@ -1,0 +1,39 @@
+body {
+    scroll-behavior: smooth;
+    
+}
+
+h1:hover {
+    color: red;
+    
+}
+
+h2:hover {
+color: blue;
+}
+
+h3:hover {
+    color: darkblue;
+}
+
+p:hover {
+    color: rgb(224, 26, 76);
+    
+}
+
+button:hover {
+    color: darkmagenta;
+}
+
+img {
+    height: 250;
+    width: 250;
+}
+
+App {
+    scroll-behavior: smooth;
+}
+
+a:hover {
+color: greenyellow;
+}
