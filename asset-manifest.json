@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs_project/static/css/main.1aa132f4.css",
+    "main.js": "/reactjs_project/static/js/main.aeec5fe3.js",
+    "static/media/horse.png": "/reactjs_project/static/media/horse.d16203b7aa615a81469b.png",
+    "static/media/counting.jpg": "/reactjs_project/static/media/counting.3bdeb3abc8c1df9405c9.jpg",
+    "index.html": "/reactjs_project/index.html",
+    "main.1aa132f4.css.map": "/reactjs_project/static/css/main.1aa132f4.css.map",
+    "main.aeec5fe3.js.map": "/reactjs_project/static/js/main.aeec5fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aa132f4.css",
+    "static/js/main.aeec5fe3.js"
+  ]
+}
